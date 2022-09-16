@@ -1,0 +1,38 @@
+* {
+    font-family: 'Combo', cursive;
+}
+
+p.bubbleblue {
+    color: #64e7ed;
+    
+}
+p.bubbledeeppink {
+    color: deeppink;
+    font-family: 'Nabla', cursive;
+}
+p.bubbledarkseagreen {
+    color: darkseagreen;
+    
+}
+p.bubblemediumpurple {
+    color: mediumpurple;
+    font-family: 'Nabla', cursive;
+}
+p.bubblegold {
+    color: gold;
+    
+}
+div.bubblestyle {
+    font-size: medium;
+    font-style: italic;
+    
+}
+body.bubblealign {
+    text-align: center;
+    line-height: 1.5em;
+    line-height: 2em;
+    
+}
+div.bubblestyle {
+    font-size: 1.25em;
+}

@@ -1,0 +1,17 @@
+body.home{
+    padding: 1em;
+    background-image: url(https://cdn.britannica.com/70/136970-050-3F1B0910/galaxies-Antennae.jpg?q=60);
+    background-size: cover;
+}
+.home p{
+    color: rgb(67, 101, 131);    
+    width: 20%;
+    line-height: 1.5em;
+    font-size: larger;
+}
+.home h1, .home h2, .home h3, .home h4{
+    color: rgb(108, 31, 94);
+}
+.home h2, .home h3, .home h4 {
+    margin-top: 3em
+}
