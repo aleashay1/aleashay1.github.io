@@ -1,7 +1,7 @@
 body.home{
     padding: 1em;
     background-image: url(https://cdn.britannica.com/70/136970-050-3F1B0910/galaxies-Antennae.jpg?q=60);
-    background-size: contain;
+    background-size: cover;
 }
 .home p{
     color: rgb(67, 101, 131);    
