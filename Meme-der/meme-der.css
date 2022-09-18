@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    font-family: 'Bungee Spice', cursive;
+}
+img {
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: 5em;
+     margin-bottom: 5em;
+     width: 50%;
+     padding: 2em;
+}
