@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+}
+#chessboard {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+#chessboard a {
+    height: 12.5vw;
+}
+#chessboard > a:nth-child(even) {
+    background-color: burlywood;
+}
+#chessboard > a:nth-child(odd) {
+    background-color: cadetblue;
+}
+#chessboard a:nth-child(9n) {
+    display: none;
+}
+#chessboard > a:hover {
+    background-color: crimson;
+}
+#chessboard > a:focus {
+    background-color: blueviolet;
+}
