@@ -26,7 +26,7 @@ i {
     background-position: center;
 }
 #swipe > button:hover {
-    opacity: 1;
+    opacity: .75;
 }
 #swipe > button {
     opacity: 0;

@@ -1,0 +1,33 @@
+h1,h2,h3 {
+    color: blue;
+    font-family: 'Lobster', cursive;
+}
+h1 {
+    font-size: xxx-large;
+    margin: 0em;
+}
+h2 {
+    text-align: center;
+    font-size: xx-large;
+}
+h3 {
+    text-align: right;
+    font-size: x-large;
+}
+body {
+    background-image: url(https://images.newscientist.com/wp-content/uploads/2020/09/16181027/credit_mohamed-khaki-eyeem-getty-images_web.jpg?width=800);
+    background-size: cover;
+}
+p.wave1 {
+    
+}
+p.wave2 {
+    text-align: center;
+}
+p.wave3 {
+    text-align: right;
+}
+div > * {
+    margin:0em;
+    font-size: large;
+}

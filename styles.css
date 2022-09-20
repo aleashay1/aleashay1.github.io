@@ -1,6 +1,9 @@
-.row {
+.row-2, .row-3 {
     display: flex;
 }
-.row > * {
+.row-2 > * {
     width: 50%;
+}
+.row-3 > * {
+    width: 33%;
 }
